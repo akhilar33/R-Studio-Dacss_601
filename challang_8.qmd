@@ -1,0 +1,17 @@
+---
+title: "Challenge_8 Github"
+author: "Akhila Reddy"
+description: "Github and R "
+date: "10/25/2023"
+format:
+  html:
+    df-print: paged
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+categories:
+  - weekly_challenges
+  - challenge_8
+---
+
+
