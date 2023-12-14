@@ -14,4 +14,5 @@ categories:
   - challenge_8
 ---
 
-
+** What did you eat today? **
+Its finals week so no eating only project submissions. 
